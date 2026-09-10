@@ -1,0 +1,23 @@
+recipes/overlays/gb200-eks-training.yaml
+  s_caed06e5d8e830::t_765d4f8b6023af 132-133
+recipes/overlays/gb300-eks-training.yaml
+  s_caed06e5d8e830::t_6143ac775bfba1 183-184
+pkg/recipe/metadata_store_test.go
+  s_caed06e5d8e830::t_4961606e056d4d 1068-1069
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f5a282477b0c55ade35d2b7630a20b3e33b59a1",
+  "prompts": {},
+  "sessions": {
+    "s_caed06e5d8e830": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f77155986ffeULTrpo5tZR69O4",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": null
+    }
+  }
+}
