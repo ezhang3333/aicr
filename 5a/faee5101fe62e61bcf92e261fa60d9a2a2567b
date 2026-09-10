@@ -1,0 +1,35 @@
+pkg/recipe/testdata/catalog_parity_golden.yaml
+  s_97fef549a160e9::t_3f145ac0e87b19 17-18,23-24
+recipes/overlays/gb300-eks-training.yaml
+  s_caed06e5d8e830::t_6143ac775bfba1 183-184
+pkg/recipe/metadata_store_test.go
+  s_caed06e5d8e830::t_4961606e056d4d 1068-1069
+recipes/overlays/gb200-eks-training.yaml
+  s_caed06e5d8e830::t_765d4f8b6023af 132-133
+pkg/bundler/testdata/stock_render_golden.yaml
+  s_97fef549a160e9::t_322b3eb5b6bc68 17-18,23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5afaee5101fe62e61bcf92e261fa60d9a2a2567b",
+  "prompts": {},
+  "sessions": {
+    "s_97fef549a160e9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f728e378bffeuQGjZQzBRpufpf",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": null
+    },
+    "s_caed06e5d8e830": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f77155986ffeULTrpo5tZR69O4",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": null
+    }
+  }
+}
