@@ -1,0 +1,23 @@
+docs/user/recipe-health.md
+  s_e6f245515f24ab::t_36f76566489112 64,71,74,78,90
+pkg/bundler/testdata/stock_render_golden.yaml
+  s_e6f245515f24ab::t_36f76566489112 6,8,11,16,18-20,24-26,28-30,33-36,55-57
+pkg/recipe/testdata/catalog_parity_golden.yaml
+  s_e6f245515f24ab::t_36f76566489112 6,8,11,16,18-20,24-26,28-30,33-36,55-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f870718ac6b536ce09d808afeb543d17a7e92b02",
+  "prompts": {},
+  "sessions": {
+    "s_e6f245515f24ab": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f58c1fc5cffeAT3miiBZ2RvxgT",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "ezhang3333@gmail.com <ezhang3333@gmail.com>"
+    }
+  }
+}
