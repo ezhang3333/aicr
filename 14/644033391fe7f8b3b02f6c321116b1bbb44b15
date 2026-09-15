@@ -1,0 +1,31 @@
+pkg/recipe/coverage.go
+  s_e6f245515f24ab::t_9b0cc62df79e3e 460-465
+  s_e6f245515f24ab::t_39e5909643d063 520-530,533-535,545-561
+  s_e6f245515f24ab::t_9f963e0cb5f011 562-563
+pkg/recipe/coverage_test.go
+  s_e6f245515f24ab::t_5c699c59cf9cbb 411-458
+pkg/recipe/testdata/coverage_golden.yaml
+  s_e6f245515f24ab::t_f579c9883b0272 3010,3041,3383,3414,3495,3576,3680,3695
+pkg/recipe/coverage_subsumption_test.go
+  s_e6f245515f24ab::t_42ad7a8faa1186 92-100,104-106
+  s_e6f245515f24ab::t_1aac539ec44675 141,165-175,184-222
+docs/user/recipe-health.md
+  s_e6f245515f24ab::t_2f250bffd71c48 70,73,101
+  s_e6f245515f24ab::t_cc0affa8d7d6b2 43-44,60,67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "14644033391fe7f8b3b02f6c321116b1bbb44b15",
+  "prompts": {},
+  "sessions": {
+    "s_e6f245515f24ab": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f58c1fc5cffeAT3miiBZ2RvxgT",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "ezhang3333@gmail.com <ezhang3333@gmail.com>"
+    }
+  }
+}
