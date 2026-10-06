@@ -1,0 +1,60 @@
+pkg/recipe/metadata_test.go
+  s_566b9582f167f8::t_ecc251dd26a392 2479-2563
+docs/user/component-catalog.md
+  s_566b9582f167f8::t_bd038993217a33 1309
+docs/user/cli-reference.md
+  s_566b9582f167f8::t_578f83489e86bd 514,956,3396
+pkg/client/v1/aicr.go
+  s_566b9582f167f8::t_f50d6413c0dc19 899-900
+  s_566b9582f167f8::t_ad57776dcb7946 847-852,862-865,882,913,947-951,954-957,1136-1138,1238,1443
+pkg/cli/mirror_recipe_guard_test.go
+  s_566b9582f167f8::t_c9c876fbb4eef6 109,121-153
+pkg/cli/query.go
+  s_566b9582f167f8::t_f50d6413c0dc19 322-323
+  s_566b9582f167f8::t_ad57776dcb7946 98,331-333,335-338
+pkg/recipe/metadata.go
+  s_566b9582f167f8::t_ad57776dcb7946 318-347,356-358
+docs/integrator/components/nodewright.md
+  s_566b9582f167f8::t_578f83489e86bd 5
+docs/user/upgrading.md
+  s_566b9582f167f8::t_578f83489e86bd 211-223,253
+pkg/cli/query_test.go
+  s_566b9582f167f8::t_085be012e12599 411-413
+  s_566b9582f167f8::t_c9c876fbb4eef6 472-473,485-488,503-554
+  s_566b9582f167f8::t_03ea066006c022 555
+docs/integrator/go-library.md
+  s_566b9582f167f8::t_bd038993217a33 673,678-679,683-685,689
+pkg/cli/mirror.go
+  s_566b9582f167f8::t_f50d6413c0dc19 143
+  s_566b9582f167f8::t_ad57776dcb7946 242,244
+pkg/client/v1/types.go
+  s_566b9582f167f8::t_f50d6413c0dc19 381-382,447,449-450
+  s_566b9582f167f8::t_ad57776dcb7946 385-388,412,461-471
+  s_566b9582f167f8::t_24c65b500fa392 472-474
+pkg/cli/consts.go
+  s_566b9582f167f8::t_ad57776dcb7946 43
+pkg/client/v1/aicr_test.go
+  s_566b9582f167f8::t_33d7b56188311f 3384-3465,3493-3520
+  s_566b9582f167f8::t_085be012e12599 2776-2778,3466-3476,3479-3480,3483-3492
+  s_566b9582f167f8::t_4f4835b6525606 3477-3478,3481-3482
+pkg/cli/recipe.go
+  s_566b9582f167f8::t_ad57776dcb7946 109-116,190
+pkg/cli/testdata/cli-surface.golden
+  s_566b9582f167f8::t_fb4b1ea0cb7e94 109,130,149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c4deb07d3bbbc75934c71fb2798b3c832457511f",
+  "prompts": {},
+  "sessions": {
+    "s_566b9582f167f8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a109af-2610-7e33-8bb8-362074a58a99",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
