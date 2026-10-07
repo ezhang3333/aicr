@@ -1,0 +1,19 @@
+pkg/client/v1/aicr.go
+  s_02304ff4985ebe::t_12687be95ec4a4 1137-1138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f333799e77d1bfe2b27f18b7828d807e2e56605f",
+  "prompts": {},
+  "sessions": {
+    "s_02304ff4985ebe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1136f-2d56-7a52-a00b-dee3b4e195e5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
